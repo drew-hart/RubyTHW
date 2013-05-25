@@ -1,0 +1,19 @@
+Ruby Function Checklist:
+
+1) Did you start the function with "def"?
+2) Does your function only include characters and underscores ("_")?
+3) Did you include and open your function with an open parenthesis?
+4) Did you place your arguments after the open parenthesis and include commas between each one?
+5) Are the arguments you used unique, meaning no duplicate names?
+6) Did include a close parenthesis after the arguments?
+7) Did you indent all lines of code with two spaces or a tab?
+8) Did you close the function with "end"?
+
+And when you run (aka "use" or "call") a function, check these things:
+
+Did you call/use/run this function by typing its name?
+Did you put ( character after the name to run it? (this isn't required, but is idiomatic)
+Did you put the values you want into the parenthesis separated by commas?
+Did you end the function call with a ) character.
+Use these two checklists on the remaining lessons until you do not need them anymore.
+
